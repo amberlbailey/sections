@@ -13,6 +13,7 @@ html {
 h1 {
   display: inline;
   text-align: center;
+  margin: 1.5rem;
 }
 span {
   color: #333;
@@ -30,4 +31,5 @@ div a {
 img {
   max-width: 25em;
   float: left;
+  padding: 2em;
 }
