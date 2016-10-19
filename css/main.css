@@ -31,7 +31,7 @@ body{
 }
 
 div {
-  display: inline block;
+  display: inline-block;
   vertical-align: middle;
   max-width: 25rem;
 }
