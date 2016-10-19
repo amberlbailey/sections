@@ -14,10 +14,13 @@ h1 {
   display: inline block;
   margin: 1.5rem;
   font-size: 400;
+  padding: 2rem;
 }
 
 body{
   vertical-align: middle;
+  text-align: left;
+
 }
 
 span {
@@ -35,6 +38,8 @@ div a {
 
 img {
   max-width: 25em;
+  display: inline-block;
+  width: 100%;
   float: left;
   padding: 1em;
 }
