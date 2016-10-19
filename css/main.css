@@ -19,7 +19,7 @@ h1 {
 body{
   vertical-align: middle;
   text-align: left;
-
+  color: #333;
 }
 
 span {
@@ -41,5 +41,9 @@ img {
   width: 100%;
   float: left;
   padding: 1em;
-  margin-right: 6rem;
+  text-align: center;
+}
+
+a:hover {
+  color: #666;
 }
