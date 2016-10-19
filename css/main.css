@@ -11,10 +11,9 @@ html {
 }
 
 h1 {
-  display: inline block;
   margin: 1.5rem;
   font-size: 400;
-  padding: 2rem;
+  padding: 1rem;
 }
 
 body{
@@ -42,4 +41,5 @@ img {
   width: 100%;
   float: left;
   padding: 1em;
+  margin-right: 6rem;
 }
